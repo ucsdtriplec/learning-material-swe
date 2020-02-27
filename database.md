@@ -32,8 +32,8 @@ Introduction: Official documentation for Redis
 
 #### Related Books
 
-- [《A First Course in Database Systems》](http://infolab.stanford.edu/~ullman/fcdb.html)
+- ["A First Course in Database Systems"](http://infolab.stanford.edu/~ullman/fcdb.html)
 Introduction: Entry-level tutorial for database systems. Topics vary from data model to sql and views
 
-- [《Database System Implementation》](http://infolab.stanford.edu/~ullman/dbsi.html)
+- ["Database System Implementation"](http://infolab.stanford.edu/~ullman/dbsi.html)
 Introduction: Stanford University's textbook for database systems

@@ -17,8 +17,8 @@ Introduction: Basic tutorial for CSS
 Introduction: Basic tutorial for JavaScript
 
 #### jQuery
-- [Official Documentation](https://jquery.com/)
-jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+- [Official Documentation](https://jquery.com/)  
+Introduction: jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 
 #### React
 - ["React JS Crash Course"](https://www.youtube.com/watch?v=A71aqufiNtQ)
