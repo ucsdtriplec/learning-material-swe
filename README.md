@@ -1,2 +1,8 @@
-# learning-material-swe
-Entry-level learning materials for web &amp; mobile development
+# UCSD Triple C SWE Learning materials
+Entry-level learning materials for software engineers.
+
+- [Web Development Basics](/web-dev-basics.md)
+- [Web Front-end Development](/web-frontend-dev.md)
+- [Backend Development](/backend-dev.md)
+- [Mobile Development](/mobile-dev.md)
+- [Database Systems](/database.md)
