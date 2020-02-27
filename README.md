@@ -1,4 +1,4 @@
-# UCSD Triple C SWE Learning materials
+# UCSD Triple C SWE Learning Materials
 Entry-level learning materials for software engineers.
 
 - [Web Development Basics](/web-dev-basics.md)
