@@ -4,9 +4,9 @@
 - Internet Security
 
 #### Internet Protocol
-- [HTTP Protocol](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
+- [HTTP Protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
-- [Internet Protocol Introduction](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
+- [OSI Model](https://www.studytonight.com/computer-networks/complete-osi-model)
 
 - [TCP/IP Protocol](https://www.geeksforgeeks.org/tcp-ip-model/)
 
