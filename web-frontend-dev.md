@@ -30,10 +30,15 @@ Introduction: Coursera's tutorial for React and full stack web dev
 - [React Official Documentation](https://reactjs.org/docs/getting-started.html)  
 Introduction: Official documentation for React
 
+- [Tutorial on Youtube](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)  
+感觉还挺不错的一个教程
+
 #### Other Frameworks 
 
 - [Vue](https://vuejs.org/v2/guide/)  
 Introduction: A popular and light weight front-end framework. Easy for beginners to learn.
+    - [Crash course on Youtube](https://www.youtube.com/watch?v=4deVCNJq3qc)  
+    讲得还不错。适合入门体验
 
 - [Angular](https://angular.io/docs)  
 Introduction: A powerful and efficient framework for sophisticated web apps.

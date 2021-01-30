@@ -26,6 +26,12 @@ Introduction: Official documentation for Spring MVC
 - [Spring Boot Official Documentation](https://spring.io/guides/gs/spring-boot/)  
 Introduction: Official documentation for Spring Boot. Best tutorial for beginners using Spring Boot.
 
+- [Spring Boot tutorial on Youtube](https://www.youtube.com/watch?v=9SGDpanrc8U)  
+这哥们的系列课程都还挺不错
+
+- [Spring Security on Spring Boot](https://www.youtube.com/watch?v=her_7pa0vrg&t=14949s)  
+如题
+
 #### Node.js
 
 - [Node.js Tutorial](https://www.w3schools.com/nodejs/)  
@@ -43,6 +49,8 @@ Introduction: Another popular framework of Node.js
 Introduction: Laravel is a web application framework with expressive, elegant syntax.
 - [Flask](https://palletsprojects.com/p/flask/)  
 Introduction: Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+    - [Flask tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)  
+    挺详细的
 
 - [Django](https://www.djangoproject.com/)  
 Introduction: Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
